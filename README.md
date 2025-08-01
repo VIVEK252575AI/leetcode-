@@ -2,43 +2,63 @@
 
 [![Java](https://img.shields.io/badge/language-Java-red)](https://www.java.com/)  
 [![LeetCode](https://img.shields.io/badge/platform-LeetCode-ff69b4)](https://leetcode.com/)  
-[![Last Commit](https://img.shields.io/github/last-commit/VIVEK252575AI/DSA)](https://github.com/VIVEK252575AI/DSA/commits/main)  
+[![Build Status](https://github.com/VIVEK252575AI/DSA/workflows/CI/badge.svg)](https://github.com/VIVEK252575AI/DSA/actions)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-Welcome to my **Daily LeetCode Challenge** repository! This repo documents my journey through solving one LeetCode problem every day, tracking my progress, improving my problem-solving skills, and mastering data structures & algorithms in Java.
+
+Welcome to my **Daily LeetCode Challenge** repository! This project documents my disciplined journey of solving one LeetCode problem per day, sharpening my problem-solving skills, mastering algorithms, and building a robust Java codebase for future reference.
 
 ---
 
 ## 🚀 Table of Contents
 
 1. [About](#about)  
-2. [Repository Structure](#repository-structure)  
-3. [Daily Challenge Workflow](#daily-challenge-workflow)  
-4. [How to Run Solutions Locally](#how-to-run-solutions-locally)  
-5. [Progress Tracker](#progress-tracker)  
-6. [Contributing](#contributing)  
-7. [License](#license)  
+2. [Features](#features)  
+3. [Prerequisites](#prerequisites)  
+4. [Getting Started](#getting-started)  
+5. [Repository Structure](#repository-structure)  
+6. [Daily Challenge Workflow](#daily-challenge-workflow)  
+7. [Testing & CI](#testing--ci)  
+8. [Progress Tracker](#progress-tracker)  
+9. [Code Style & Best Practices](#code-style--best-practices)  
+10. [Roadmap](#roadmap)  
+11. [Contributing](#contributing)  
+12. [License](#license)  
 
 ---
 
 ## 📖 About
 
-- **Goal**: Solve and document **one** LeetCode problem **per day** for sustained DSA mastery.  
-- **Language**: Java (with clean, commented code).  
-- **Approach**:  
-  1. Read and analyze the prompt thoroughly.  
-  2. Sketch out data structures and algorithmic approach.  
-  3. Implement solution in a dedicated Java class.  
-  4. Add explanation and time/space complexity in comments.  
-  5. Write and run test cases for validation.  
+- **Objective**: Solve one LeetCode problem every calendar day to achieve deep mastery of data structures and algorithms.  
+- **Language**: Java (leveraging modern Java features, e.g., Streams, Optional).  
+- **Audience**: Myself (self-review) and developers who want structured, daily-coded solutions.
 
 ---
 
-## 📂 Repository Structure
+## ✨ Features
 
-
-- **`daily-solutions/`**: Each file is named `<YYYY-MM-DD>_<ProblemName>.java`  
-- **`tests/`**: JUnit test suite that runs through sample/custom tests.  
-- **`utils/`**: Shared helpers (I/O, assertions).  
+- 📁 **Daily-Solution Template**: Boilerplate Java template with I/O utilities and comments.  
+- 🔄 **Automated Testing**: JUnit 5 test suite validating each daily solution.  
+- 📈 **Progress Dashboard**: Markdown table auto-updated with difficulty tags and status.  
+- ⚙️ **CI Pipeline**: GitHub Actions for build, test, and code style checks.  
+- 📝 **Detailed Documentation**: Each solution includes problem analysis, complexity, and edge cases.
 
 ---
 
+## ⚙️ Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Java Development Kit (JDK) 11 or above installed.  
+- Maven 3.6+ or Gradle 6+ for build management.  
+- Git for version control.  
+- IDE (IntelliJ IDEA, Eclipse, or VS Code) configured with Java support.
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/VIVEK252575AI/DSA.git
+   cd DSA
