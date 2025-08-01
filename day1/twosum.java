@@ -1,3 +1,5 @@
+
+//this is the brute force approch  
 package day1;
 import java.util.*;
 
