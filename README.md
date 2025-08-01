@@ -42,17 +42,3 @@ Welcome to my **Daily LeetCode Challenge** repository! This repo documents my jo
 
 ---
 
-## 🛠 Daily Challenge Workflow
-
-1. **Create** a new Java class from the template in `daily-solutions/template/`.  
-2. **Rename** file to `YYYY-MM-DD_<ProblemName>.java`.  
-3. **Implement** solution with:
-   - Clear method signature.
-   - In-code comments for logic steps.
-   - Analysis of time & space complexity.
-4. **Write** test cases in `tests/DailySolutionTests.java`.  
-5. **Commit & Push**:
-   ```bash
-   git add daily-solutions/2025-08-02_*.java tests/DailySolutionTests.java
-   git commit -m "Solve [LeetCode #<ID>] <ProblemName> — YYYY-MM-DD"
-   git push
