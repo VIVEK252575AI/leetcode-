@@ -2,7 +2,6 @@
 
 [![Java](https://img.shields.io/badge/language-Java-red)](https://www.java.com/)  
 [![LeetCode](https://img.shields.io/badge/platform-LeetCode-ff69b4)](https://leetcode.com/)  
-[![Build Status](https://github.com/VIVEK252575AI/DSA/workflows/CI/badge.svg)](https://github.com/VIVEK252575AI/DSA/actions)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 
