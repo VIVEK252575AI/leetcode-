@@ -56,21 +56,4 @@ Before you begin, ensure you have met the following requirements:
 ---
 
 
-DSA/
-├── .github/
-│   └── workflows/
-│       └── ci.yml            # GitHub Actions workflow
-├── daily-solutions/
-│   ├── template/
-│   │   └── ProblemTemplate.java  # Daily solution template
-│   ├── 2025-08-01_TwoSum.java
-│   ├── 2025-07-31_AddTwoNumbers.java
-│   └── ...
-├── tests/
-│   └── DailySolutionTests.java   # JUnit 5 suite
-├── utils/
-│   └── InputReader.java          # Fast I/O helper
-├── .editorconfig                 # Code style
-├── pom.xml                       # Maven build file
-├── README.md                     # This file
-└── LICENSE                       # MIT License
+
