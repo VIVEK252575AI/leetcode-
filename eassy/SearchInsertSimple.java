@@ -1,4 +1,5 @@
 // Problem 35: Search Insert Position
+
 package eassy;
 public class SearchInsertSimple {
     public int searchInsert(int[] nums, int target) {
